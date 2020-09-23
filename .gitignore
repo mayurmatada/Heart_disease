@@ -1,0 +1,11 @@
+.vscode/settings.json
+logs/20200923-210122/train/events.out.tfevents.1600875083.LAPTOP-28127FLA.14568.59.v2
+logs/20200923-210122/train/events.out.tfevents.1600875086.LAPTOP-28127FLA.profile-empty
+logs/20200923-210122/train/plugins/profile/2020_09_23_15_31_26/LAPTOP-28127FLA.input_pipeline.pb
+logs/20200923-210122/train/plugins/profile/2020_09_23_15_31_26/LAPTOP-28127FLA.kernel_stats.pb
+logs/20200923-210122/train/plugins/profile/2020_09_23_15_31_26/LAPTOP-28127FLA.memory_profile.json.gz
+logs/20200923-210122/train/plugins/profile/2020_09_23_15_31_26/LAPTOP-28127FLA.overview_page.pb
+logs/20200923-210122/train/plugins/profile/2020_09_23_15_31_26/LAPTOP-28127FLA.tensorflow_stats.pb
+logs/20200923-210122/train/plugins/profile/2020_09_23_15_31_26/LAPTOP-28127FLA.trace.json.gz
+logs/20200923-210122/train/plugins/profile/2020_09_23_15_31_26/LAPTOP-28127FLA.xplane.pb
+logs/20200923-210122/validation/events.out.tfevents.1600875086.LAPTOP-28127FLA.14568.1191.v2
